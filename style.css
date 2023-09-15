@@ -1,0 +1,16 @@
+
+h1 {
+    color: coral; font-size: 42;
+}
+h2 {
+    color: darkred;font-size: 38;
+}
+h3 {
+    color: black;font-size: 36;
+}
+h4{
+    color: cornflowerblue;font-size: 32;
+}
+h5{color: aqua;font-size: 28;}
+h6{color: blanchedalmond;font-size: 24;}
+.main-p {color: darkslateblue;}
